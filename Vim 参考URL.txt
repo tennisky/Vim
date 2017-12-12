@@ -1,0 +1,14 @@
+####
+#
+#	Vim 参考URL
+#
+####
+
+# 新しいVim、"Neovim"を導入する
+http://www.g104robo.com/entry/neovim-install
+
+# NeoBundle から dein.vim に乗り換えたら爆速だった話
+https://qiita.com/delphinus/items/00ff2c0ba972c6e41542
+
+# dein.vimを使ってみる
+https://qiita.com/yoza/items/2f8bd33a18225754f346
